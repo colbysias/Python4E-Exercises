@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e3b86e7-7e84-4435-b96a-7e019ee3cec5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 2 Exercises/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python4E.iml" afterDir="false" />
+    <list default="true" id="2e3b86e7-7e84-4435-b96a-7e019ee3cec5" name="Changes" comment="Chapter 10 Exercise 1">
+      <change afterPath="$PROJECT_DIR$/Chapter 10 Exercises/10.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 10 Exercises/10.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 10 Exercises/10.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python4E.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Python4E.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2LVwKmVe0HbRgFik2clnd8pUtZp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -33,9 +35,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/IntelliJ IDEA Community Edition 2022.2.2/Python4Everyone/Chapter 10 Exercises",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ IDEA Community Edition 2022.2.2\Python4Everyone\Chapter 10 Exercises" />
+      <recent name="D:\IntelliJ IDEA Community Edition 2022.2.2\Python4Everyone\Chapter 9 Exercises" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,6 +57,28 @@
       <option name="presentableId" value="Default" />
       <updated>1675969503566</updated>
     </task>
+    <task id="LOCAL-00001" summary="Chapter 9 Exercises 3 &amp; 4">
+      <created>1677275790033</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677275790033</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Chapter 9 Exercise 5">
+      <created>1677352249882</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677352249882</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Chapter 10 Exercise 1">
+      <created>1677367738746</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677367738747</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -57,5 +91,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Chapter 9 Exercises 3 &amp; 4" />
+    <MESSAGE value="Chapter 9 Exercise 5" />
+    <MESSAGE value="Chapter 10 Exercise 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 10 Exercise 1" />
   </component>
 </project>
