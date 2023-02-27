@@ -6,5 +6,19 @@ Enter file name: mbox-short.txt
  'rjlowe@iupui.edu': 2, 'gsilver@umich.edu': 3,
  'david.horwitz@uct.ac.za': 4, 'wagnermr@iupui.edu': 1,
  'zqian@umich.edu': 4, 'stephen.marquard@uct.ac.za': 2,
- 'ray@media.berkeley.edu': 1}
-"""
+ 'ray@media.berkeley.edu': 1}"""
+
+d = dict()
+fname = input("Enter file name: ")
+
+try:
+    fhand = open(fname)
+except:
+    print("File cannot be opened: ", fname)
+    exit()
+
+for line in fhand:
+    if line.startswith("From "):
+        words = line.split()[1]
+        d[words] = d.get(words,0) + 1
+print(d)
